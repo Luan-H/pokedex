@@ -1,0 +1,21 @@
+.about {
+    text-align: center;
+}
+
+.about h1 {
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+.about p {
+    margin-bottom: 1.5em;
+}
+
+.about a {
+    text-decoration: none;
+    padding: 1em;
+    text-align: center;
+    background-color: #333;
+    color: white;
+    border-radius: 10px;
+}
